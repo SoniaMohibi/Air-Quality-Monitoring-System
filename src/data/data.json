@@ -1,0 +1,357 @@
+{
+  "Aqicards":[
+   {
+      "titl": "Air Fatal Particles",
+      "subtitle": "PM2.5, PM10–2.5, PM10, O3, SO2",
+      "description":"A growing body of evidence links chronic exposure to air pollution especially particulate matter (PM) with mortality resulting from a variety of heart, lung, and even liver ",
+      "image":"img/portfolio/masked2.jpg",
+      "clickon":"Annual Death By Polluted Air ",
+      "link":"https://air.plumelabs.com/learn/en/particulate-matter?utm_source=accuweather&utm_medium=pm10&utm_campaign=aq_page#ae16",
+    "nextlink":"https://www.who.int/health-topics/air-pollution#:~:text=Ambient%20air%20pollution%20accounts%20for,quality%20levels%20exceed%20WHO%20limits"
+   },
+    {
+      "titl": "Sensitive Groups To Polluted Air",
+      "subtitle": "asthma, cardiovascular, infants",
+      "description":"People’s health risk from air pollution varies widely depending on age, where they live, their underlying health, and other factors of changes ",
+      "image":"img/portfolio/aqi.jpg",
+      "clickon":"What to do when air quality is poor",
+      "link": "https://www.epa.gov/pmcourse/patient-exposure-and-air-quality-index",
+      "nextlink":"https://www.lung.org/clean-air/outdoors/10-tips-to-protect-yourself"
+    },
+   {
+      "titl": "What is AQI?",
+      "subtitle": "Air Quality Index",
+      "description":"Think of the AQI as a yardstick that runs from 0 to 500. The higher the AQI value,the greater the risks of previous mentioned diseases.They are rampand everywhere one travels",
+      "image":"img/portfolio/masked.jpg",
+      "clickon":"AQI Environmental Parameters",
+      "link": "https://www.business-standard.com/about/what-is-air-quality-index",
+      "nextlink":"https://scijinks.gov/air-quality/#:~:text=AQI%20tracks%20five%20major%20air,Sulfur%20dioxide"
+    }
+    
+  ]
+,
+  "Header": {
+    "title": "Air Quality at IBA",
+    "paragraph": "Monitoring realtime air quality (AQI)"
+  },
+  "About": {
+    "paragraph": "Smart AQI The Best air monitoring system used to detect air quality. We have come up with most accurate and reliable quality of air any time you want.Utilizing the wide detecting scope, fast responsiveness, high sensitivity, stability of the sensors,Smart AQI depicts the air quality at aparticular area"
+  },
+  "Gallery": [
+    {
+      "title": "GC Series",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "GC Multi",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "AirVisual Pro ",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Atem Series",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Car Air Purifier",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Cleanroom H13",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Dental Series",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Health Pro Series",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Perfect 16",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "id":1,
+      "icon": "fa fa-bolt ",
+      "name": "Air Monitoring",
+      "text": "We monitor air quality of a particular area in realtime taht is reliable and accurate"
+    },
+    {
+      "id":2,
+      "icon": "fa fa-bar-chart",
+      "name": "Air Reporting",
+      "text": "The reporting of monitored air can also be depicted that provides further information about the air quality"
+    },
+    {
+      "id":3,    
+      "icon": "fa fa-thin fa-bell",
+      "name": "Notifications",
+      "text": "Smart AQI also notifies the user of higly polluted air to take precautions.If AQI > 300,move to a save place"
+    },
+    {
+      "id":4,
+      "icon": "fa fa-light fa-download",
+      "name": "Downloading",
+      "text": "We provide downloading of the air result report in csv format"
+    },
+    {
+      "id":5,
+      "icon": "fa fa-solid fa-paperclip",
+      "name": "AQI NewsLetter and Articles",
+      "text": "We provide articles about the world AQI"
+    },
+    {
+      "id":6,
+      "icon": "fa fa-thin fa-cart-plus",
+      "name": "Smart AQI Products",
+      "text": "We provide AQI products that provides fresh and healthy air at home or business"
+       }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Dr. Syed Asif Raza Shah"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Hassaan Shahzad"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Sonia Mohibi"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Pardeep Kumar"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      
+      "id":1,
+      "img": "img/team/01.jpg",
+      "name": "Dr Syed Asif Raza Shah",
+      "job": "Supervisor"
+    },
+    {
+      
+      "id":2,
+      "img": "img/team/02.jpg",
+      "name": "Hassaan Shahzad",
+      "job": "Group Leader"
+    },
+    {
+      
+      "id":3,
+      "img": "img/team/03.jpg",
+      "name": "Pardeep Kumar",
+      "job": "Mobile Developer"
+    },
+    {
+      
+      "id":4,
+      "img": "img/team/04.jpg",
+      "name": "Sonia Mohibi",
+      "job": "Web Developer"
+    }
+  ],
+  "Mymodal":[
+    {
+      "id":1,
+      "name":"Air monitoring"
+    },
+    {
+      "id":2,
+      "name":"Air Reporting"
+    },
+    {
+      "id":3,
+      "name":"Air "
+    },
+    {
+      "id":4,
+      "name":"AQI Pollutants Downloading"
+    },
+    {
+      "id":5,
+      "name":"AQI News Letters and Articles"
+    },
+    {
+      "id":6,
+      "name":"AQI Products"
+    }
+  ],
+  "Userprofile":[
+    {
+      "id":1,
+      "img": "/img/team/01.jpg",
+      "name": "Dr. Syed Asif Raza Shah",
+      "post":"Assisstant Professor",
+      "about":"Dr. Syed Asif Raza Shah has been working as the supervisor of this project and helping the members through out the project Dr. Syed Asif Raza Shah is working as Assistant Professor of Computer Science department at Sukkur IBA University, Pakistan. He has earned his PhD in Computer Science in 2019, from University of Science and Technology (UST), South Korea. He has been involved in different scientific data management research projects at Korea Institute of Science and Technology Information (KISTI) during his PhD research. He also has more than 10 years of industry experience in the fields of networking and system. Based on his research publication track record, he has contributed in the areas of Software-Defined Networks (SDN), Cloud Computing, Virtualization, Network Function Virtualization (NFV), Distributed Computing, Cyber Security, Blockchain and Big Data.",
+      "degree": [
+        "Phd Program,Computewr Science",
+        "MS,Computewr Science",
+        "BS,Information Technology"
+      ],
+      "From":[
+        "Korea University of Science & Technology (UST) (KISTI Campus) South Korea",
+        "SZABIST (Shaheed Zulfikar Ali Bhutto Institute of Science and Technology), Pakistan",
+        "PIMSAT (Preston Institute of Management Science And Technology), Pakistan"
+      ],
+      "Major":[
+        "Computer Science",
+        "Computer Science",
+        "Computer Science"
+      ],
+      "Year":[
+        "2019",
+        "2012",
+        "2006"
+      ]
+    },
+    {
+      "id":2,
+      "img": "/img/team/02.jpg",
+      "name": "Hassaan Shahzad",
+      "post": "Security Analyst",
+      "about": "Hassaan is group leader of this project,who managed all the group meetings and project resources very well",
+      "degree":
+      [
+        "BS,Computer Science",
+        "Intermediate, ISC ",
+        "Matriculation "
+      ],
+      "From":[
+        "Sukkur IBA University",
+        "FG Degree College",
+        ""
+      ],
+      "Major":[
+        "Computer Science",
+        "Computer Science",
+        "Computer Science"
+      ],
+      "Year":[
+        "2022",
+        "2017",
+        "2015"
+      ]
+     },
+    { 
+      "id":3,
+      "img": "/img/team/03.jpg",
+      "name": "Pardeep Kumar",
+      "post": "Mobile Developer",
+      "about": "Mr Pardeep Kumar is the Mobile Developer of this project.He has done his graduation from siba on a fully funded nthp scholarship.Pardeep is passionate to be a Computer Scientist.He has a good programming Skills and Logics",
+      "degree":
+      [
+        "BS,Computer Science",
+        "Intermediate, ISC ",
+        "Matriculation "
+      ],
+      "From":[
+        "Sukkur IBA University",
+        "FG Degree College",
+        ""
+      ],
+      "Major":[
+        "Computer Science",
+        "Computer Science",
+        "Computer Science"
+      ],
+      "Year":[
+        "2022",
+        "2017",
+        "2015"
+      ]
+      
+    },
+    {
+      "id":4,
+      "img": "/img/team/04.jpg",
+      "name": "Sonia Mohibi",
+      "post":"Web developer",
+      "about": "Sonia Mohibi is the web developer of this project ,an nthp scholar of SIBA",
+      "degree":
+      [
+        "BS,Software Engineering",
+        "Intermediate, Engineering ",
+        "Matriculation "
+      ],
+      "From":[
+        "Sukkur IBA University",
+        "KB Science College",
+        "Govt Girls High School Quetta"
+      ],
+      "Major":[
+        "Software Engineering",
+        "Software Engineering",
+        "Software Engineering"
+      ],
+      "Year":[
+        "2022",
+        "2017",
+        "2015"
+      ]
+    }
+    ],  
+    
+"articles":[
+  {
+    "name":"Link Between Air Pollution and Heart Disease",
+    "link":"https://www.epa.gov/sciencematters/linking-air-pollution-and-heart-disease"
+  },
+{
+  "name":"Air Pollution role in depression",
+  "link":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447209/#:~:text=MohanKumar%20et%20al%20found%20that,to%20the%20manifestation%20of%20depression.&text=Vert%20et%20al%20found%20that,in%20the%20nitric%20oxide%20level."
+},
+{
+  "name":"Preventing Cognitive Decline With Home Air Purifiers",
+  "link":"https://cleanair.camfil.us/2019/03/21/preventing-cognitive-decline-with-home-air-filters/#:~:text=The%20study's%20results%2C%20published%20in,verbal%20and%20math%20tests%20scores"
+},{
+  "name":"How to Protect Yourself from Air Pollution While Traveling",
+  "link":"https://matadornetwork.com/read/protect-air-pollution-traveling/"
+},
+{
+"name":"Top 10 Dirtiest Cities in the World",
+"link":"https://www.immigroup.com/topics/top-10-dirtiest-cities-world/"
+}
+  ], 
+  "Contact": {
+    "address": "Sukkur IBA University, Airport Road, Sukkur ",
+    "phone": "+923440204988",
+    "email": "smartaqi@gmail.com",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://api.whatsapp.com/send?phone=+923440204988",
+    "youtube": "https://twitter.com/sonia_mohibi"
+  }
+}

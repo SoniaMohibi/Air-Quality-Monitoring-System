@@ -1,0 +1,209 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+/* ADMIN */
+.admin-header {
+  width: 100%;
+  height: 60px;
+  background-color: #1e90ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  }
+  .logout{
+      width: 15%;
+      height: 40px;
+      border: none;
+      outline: none;
+      background: #1e90ff;
+      color: #fff;
+      border-radius: 5px;
+      float: right;
+      font-size: 1.1em;
+      margin-right: 30px;
+      margin-top:4px;
+  }
+  .h4{
+      margin-left: 20px;
+      margin-top: 30px;
+  }
+  .h5{
+      text-align: center;
+      color: #000;
+      font-weight: bold;
+  }
+  .welcome{
+      font-weight:normal;
+  }
+  .leftside{
+      position: fixed;
+      left: 0;
+      top: 60px;
+      width: 20%;
+      height: 90%;
+      background:#e1e1e1;
+      overflow-x: hidden;
+      color: #000 ;
+  }
+  .profileimg{
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      border: 5px solid #fff;
+      margin-top: 20px;
+  }
+  .admincontainer{
+    background-color:#1e90ff ;
+    width:400px;
+    height:450px;
+    border-radius: 2px;
+  }
+  .loginform{    
+      width: 300px;
+      height: 320px;
+      margin:auto;
+     background: white;
+      border: 1px solid #e1e1e1;
+      border-radius: 5px;
+      margin-top: 50px;
+      padding: 4%;
+  }
+  .loginform input[type="text"],.loginform input[type="password"]{
+      width: 100%;
+      height: 40px;
+      border: 1px solid #e1e1e1;
+      border-radius: 5px;
+      outline: none;
+      padding: 6%;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      font-size: 1.1em;
+       background: #f1f1f1;
+  }
+  .loginform input[type="submit"]{
+      width: 100%;
+      height: 45px;
+      border: none;
+      outline: none;
+      background: #1e90ff;
+      color: #fff;
+      border-radius: 5px;
+      font-size: 1.3em;
+      padding: 3%;
+      margin-top: 10px;
+      
+  }
+  .lostpassword{
+    margin-bottom:-10px;
+    text-decoration: none;
+    color: #808080;
+
+  }
+  .iconcolor{
+    color: #1e90ff;
+  }
+  .loginform input[type="submit"]:hover{
+      background: #282c34;
+      color: #fff;
+  }
+  
+  .h2{
+      text-align: center;
+      text-transform: uppercase;
+  }
+  .leftMenu{
+    list-style: none;
+    margin-top: 20px;
+  }
+  .leftMenu li{
+    width: 100%;
+    height: 40px;
+    font-size: 1em;
+    display: block;
+    line-height: 30px;
+  }
+  .leftMenu li a{
+    text-decoration: none;
+    color: #000;
+    padding-top: 2%;
+  }
+  .leftMenu li:hover{
+    font-weight: bold;
+    background-color: #f1f1f1;
+    color: #000;
+    padding: 1%;
+    font-weight: bold;
+  }
+  .content
+  {
+    margin-left: 20%;
+  }
+.w3-container{
+height: 100px;
+}
+.banuser{
+  width: 30px;
+  height: 30px;
+  background-color: #f00;
+  color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+.Sensortable{
+  width: 100%;
+  border: 1px solid #282c34;
+}
+.Sensortable th{
+  background-color: #1e90ff;
+  color: #fff;
+}
+.Sensortable th,.Sensortable td{
+  border: 1px solid #f1f1f1;
+  height: 40px;
+  text-align: center;
+}
+.captionView{
+  text-align: center;
+  text-transform: uppercase;
+}
+.notify,.suggest{
+  width: 100%;
+  height: auto;
+  padding: 1%;
+  background: #e1e1e1;
+}
+.someone{
+  font-weight: bold;
+}
+.deletesug{
+  width: 15%;
+  height: 40px;
+  border: none;
+  outline: none;
+  background: #f00;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 1.1em;
+  float: right;
+  margin-right: 20px;
+}
+
+  /* END */
